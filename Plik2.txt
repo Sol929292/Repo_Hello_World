@@ -1,1 +1,2 @@
 Plik tekstowy2
+Dodano nowy tekst po uwtworzeniu BWa_Branch
